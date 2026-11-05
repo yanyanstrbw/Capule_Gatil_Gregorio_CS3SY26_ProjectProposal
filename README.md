@@ -4,8 +4,8 @@
 ## Project Proposal Template
 
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Section			   	      : Beryllium
+### Group Members			    : Capule, Gatil, Greogrio
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
