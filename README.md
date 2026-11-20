@@ -3,7 +3,7 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: inDecisive
 ### Section			   	      : Beryllium
 ### Group Members			    : Capule, Gatil, Greogrio
 ### Date (Proposal Date)  : Nov 5, 2026
