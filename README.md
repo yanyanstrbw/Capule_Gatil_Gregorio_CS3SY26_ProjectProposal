@@ -30,6 +30,7 @@ run_questions (temporary, this is where questions will be)
 
 
 The rest of the classes after Class 1 are each question, which only needs to use the method run_questions. It also inherits the title and overrides it.
+
 CLASS 2
 Class Name: goOutDecision (inherits from decision)
 Attributes: title (inherits from class decision and overrides)
