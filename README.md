@@ -68,6 +68,3 @@ Objective 1: Find common daily scenarios that most people find themselves in
 Objective 2: See how we can use classes and subclasses to create an efficient way of coding responses to questions
 Objective 3: Help people make different decisions in different common scenarios using the code
 Objective 4: See how the simple ideas and coding patterns used in this project can be used to create more ambitious projects
-
-
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
