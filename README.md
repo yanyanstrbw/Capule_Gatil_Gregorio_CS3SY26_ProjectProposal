@@ -28,22 +28,26 @@ answer (final answer to question)
 start_asking (prints title)
 run_questions (temporary, this is where questions will be)
 
+
 The rest of the classes after Class 1 are each question, which only needs to use the method run_questions. It also inherits the title and overrides it.
 CLASS 2
 Class Name: goOutDecision (inherits from decision)
 Attributes: title (inherits from class decision and overrides)
 Methods:
 run_questions (in this method, it will also call askUser while having questions and answers)
+
 CLASS 3
 Class Name: buyThisDecision (inherits from decision)
 Attributes: title (inherits from class decision and overrides)
 Methods:
 run_questions (in this method, it will also call askUser while having questions and answers)
+
 CLASS 4
 Class Name: chatCrushDecision (inherits from decision)
 Attributes: title (inherits from class decision and overrides)
 Methods:
 run_questions (in this method, it will also call askUser and answer method while having questions and answers)
+
 CLASS 5
 Class Name: doAssignmentDecision (inherits from decision)
 Attributes: title (inherits from class decision and overrides)
