@@ -11,7 +11,8 @@
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
-- Include the description as well of your target demographics as the user of your application. 
+- Include the description as well of your target demographics as the user of your application.
+
 Our project, inDecisive is a project to help people, such as overthinkers and indecisive people, to be able to form an outcome through a well thought process. In today’s world, many people worry a lot about making a simple decision. We want to alleviate that problem for them by creating this program. They will go through several questions to gain a decision based on facts given and needed. It helps the targeted audience to make decisions and answers to “Should I ____?” questions.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
